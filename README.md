@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Niki van Stein
+
+my Github account/profile moved to [here](https://github.com/nikivanstein).
+
+You can alsl visit my [webpage](http://www.nikivanstein.nl)
 
 <!--
 **basvanstein/basvanstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
